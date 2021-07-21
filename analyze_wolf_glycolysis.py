@@ -40,7 +40,7 @@ model *Wolf2000_Glycolytic_Oscillations()
   s6o = 0.02;
 
   // Variable initializations:
-  k0 = 48.2;
+  k0 = 48.2;    # fixed in previous version; From pubmed:000xxy:  k4 of 77.77 and k0 of 48.2
   k1 = 550;
   k2 = 9.8;
   k31 = 323.8;
