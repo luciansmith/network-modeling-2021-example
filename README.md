@@ -1,4 +1,4 @@
-# network-modeling-2022-example
+# network-modeling-example
 
 A python script that analyzes and changes the Wolf Glycolysis model, for demonstration purposes.
 
